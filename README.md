@@ -2,6 +2,8 @@
 
 # Data Information
 
+Directly obtain processed (data)[https://www.kaggle.com/datasets/antarcticalu/micran-disease-lncrna-al-version/data].
+
 ## File information
 
 ### data
