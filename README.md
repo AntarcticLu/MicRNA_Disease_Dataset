@@ -6,7 +6,7 @@
 
 ### data
 
-path : './data/'
+path : './'
 
 | file_name             | size        | description                               |
 | --------------------- | ----------- | ----------------------------------------- |
@@ -22,7 +22,7 @@ path : './data/'
 
 ### raw_data
 
-path : './data/raw_data/'
+path : './raw_data/'
 
 | file_name                        | source                                              | description                                                  |
 | -------------------------------- | --------------------------------------------------- | ------------------------------------------------------------ |
@@ -59,7 +59,7 @@ path : './data/raw_data/'
 
 ## File information
 
-path : './data/train_data/'
+path : './train_data/'
 
 | file_name        | type | description                                             |
 | ---------------- | ---- | ------------------------------------------------------- |
