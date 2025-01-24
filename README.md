@@ -112,7 +112,7 @@ path : './train_data/'
 
 ## Process
 
-0. Specific details refer to './data/train_data/process_data.ipynb'
+0. Specific details refer to './train_data/process_data.ipynb'
 1. Set hyperparameter. $^{1}$ 
 2. Load data.
 3. Calculate the data matrices that does not change with dataset splitting.
